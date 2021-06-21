@@ -11,6 +11,7 @@
 		BA6DC7E4267C9C2500F60141 /* BarcodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6DC7E3267C9C2500F60141 /* BarcodeScannerView.swift */; };
 		BA6DC7E6267C9C2700F60141 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA6DC7E5267C9C2700F60141 /* Assets.xcassets */; };
 		BA6DC7E9267C9C2700F60141 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA6DC7E8267C9C2700F60141 /* Preview Assets.xcassets */; };
+		BA7E215B26809C07000FAC3E /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7E215A26809C07000FAC3E /* ScannerView.swift */; };
 		BAEF4E65267C9F6800BEF07A /* ScannerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEF4E64267C9F6800BEF07A /* ScannerVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -21,6 +22,7 @@
 		BA6DC7E5267C9C2700F60141 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA6DC7E8267C9C2700F60141 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BA6DC7EA267C9C2700F60141 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA7E215A26809C07000FAC3E /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 		BAEF4E64267C9F6800BEF07A /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,6 +62,7 @@
 				BA6DC7EA267C9C2700F60141 /* Info.plist */,
 				BA6DC7E7267C9C2700F60141 /* Preview Content */,
 				BAEF4E64267C9F6800BEF07A /* ScannerVC.swift */,
+				BA7E215A26809C07000FAC3E /* ScannerView.swift */,
 			);
 			path = BarcodeSanner;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BAEF4E65267C9F6800BEF07A /* ScannerVC.swift in Sources */,
+				BA7E215B26809C07000FAC3E /* ScannerView.swift in Sources */,
 				BA6DC7E4267C9C2500F60141 /* BarcodeScannerView.swift in Sources */,
 				BA6DC7E2267C9C2500F60141 /* BarcodeSannerApp.swift in Sources */,
 			);
